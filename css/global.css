@@ -4,3 +4,8 @@
   margin-right: 0;
 }
 /* End Overrides */
+
+/* Default CSS */
+.ca-addtoany-feature { float: right; }
+#block-worxco-footer-worxco-footer { text-align: center; }
+/* End Default CSS */
