@@ -3,6 +3,19 @@
   float: none;
   margin-right: 0;
 }
+
+tr:hover td, tr.even:hover td.active, tr.odd:hover td.active { 
+  background: transparent; 
+}
+
+table { 
+  border: 0; 
+}
+
+/* Override of bullets to fix them floating outside the content area */
+ul {
+  list-style: disc inside none;
+}
 /* End Overrides */
 
 /* Default CSS */
